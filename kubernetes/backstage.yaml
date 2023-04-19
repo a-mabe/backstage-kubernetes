@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: backstage
-          image: spotify/backstage-cookiecutter:latest
+          image: ghcr.io/backstage/backstage:latest
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
