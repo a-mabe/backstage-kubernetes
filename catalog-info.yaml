@@ -8,5 +8,6 @@ metadata:
     github.com/project-slug: a-mabe/backstage-kubernetes
     backstage.io/techdocs-ref: dir:.
 spec:
+  type: Library
   owner: abby
   lifecycle: experimental
