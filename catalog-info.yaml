@@ -6,7 +6,6 @@ metadata:
     This is a test repo for Backstage on Kubernetes.
   annotations:
     github.com/project-slug: a-mabe/backstage-kubernetes
-    backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   owner: abby
